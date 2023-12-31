@@ -1,2 +1,2 @@
-# this is the main branch
-we leave it as it is
+# coursera web development
+this is coursera web development course branch
